@@ -1,2 +1,3 @@
 # Colour-guessing-game
-This is a colour guessing game using RGB colours made using javascript and jQuery
+
+Colour guessing game used RGB colours to predect outcomming colour developed using Javascript and uses jQuery  
