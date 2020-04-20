@@ -44,7 +44,7 @@ Thank You
 
  ## Note
  
-Update will be out soon by wintet
+Update will be out soon by winter
 
 ## Licence
 
