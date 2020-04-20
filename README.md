@@ -6,11 +6,10 @@
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 
-
-
 ![Capture](https://user-images.githubusercontent.com/48166328/79713685-2867b780-82ec-11ea-808f-d8b00002b368.PNG)
 
 Colour guessing game uses RGB colours and displays random color boxes which we have choose correct matching RGB colour.:smile:	
+
 
 ## Technologies used
 
@@ -19,9 +18,11 @@ Colour guessing game uses RGB colours and displays random color boxes which we h
 * jQuery
 * javascript
 
+
 ## Game play
 
 ![video](https://user-images.githubusercontent.com/48166328/79730739-e439de80-830e-11ea-86f0-c7ad6e7359be.gif)
+
 
 ## Game rules
 
@@ -30,14 +31,17 @@ Colour guessing game uses RGB colours and displays random color boxes which we h
 * You will get 3 or 6 squres based on difficulty
 * You have to choose correct colour squre based on RGB colours
 
+
 ## Contribution
 
 Pull request are welcome and happy to see more open source contributors home mode levels are added and more advanced gaming levels are added :sunglasses:
+
 
 ## Acknowledge
 
 Hope had a fun time with game:wink: 
 Thank You
+
 
 ## Licence
 
