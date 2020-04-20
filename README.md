@@ -42,6 +42,9 @@ Pull request are welcome and happy to see more open source contributors home mod
 Hope had a fun time with game:wink: 
 Thank You
 
+ ## Note
+ 
+Update will be out soon by wintet
 
 ## Licence
 
